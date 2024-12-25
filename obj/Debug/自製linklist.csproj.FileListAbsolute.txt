@@ -1,0 +1,8 @@
+C:\Users\92701\source\repos\自製linklist\自製linklist\bin\Debug\自製linklist.exe.config
+C:\Users\92701\source\repos\自製linklist\自製linklist\bin\Debug\自製linklist.exe
+C:\Users\92701\source\repos\自製linklist\自製linklist\bin\Debug\自製linklist.pdb
+C:\Users\92701\source\repos\自製linklist\自製linklist\obj\Debug\自製linklist.csproj.AssemblyReference.cache
+C:\Users\92701\source\repos\自製linklist\自製linklist\obj\Debug\自製linklist.csproj.SuggestedBindingRedirects.cache
+C:\Users\92701\source\repos\自製linklist\自製linklist\obj\Debug\自製linklist.csproj.CoreCompileInputs.cache
+C:\Users\92701\source\repos\自製linklist\自製linklist\obj\Debug\自製linklist.exe
+C:\Users\92701\source\repos\自製linklist\自製linklist\obj\Debug\自製linklist.pdb

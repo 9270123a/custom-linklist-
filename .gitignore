@@ -1,0 +1,5 @@
+﻿echo bin/ > .gitignore
+echo obj/ >> .gitignore
+echo .vs/ >> .gitignore
+echo *.exe >> .gitignore
+echo *.pdb >> .gitignore
